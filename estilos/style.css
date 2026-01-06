@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+:root {
+    --corverde: #49a09d;
+    --corlilas: #5f2c82;
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
